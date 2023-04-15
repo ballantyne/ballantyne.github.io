@@ -1,0 +1,47 @@
+Chapter 3 How to use HTML to structure a web page
+
+·       Use doctype, head, and body tags correctly
+
+·       Apply markup for images, headings, paragraphs, hyperlinks, buttons, horizontal rules
+
+·       Apply span and div tags as needed
+
+Chapter 4 How to use CSS to format the elements of a web page
+
+·       Create a css file and link it correctly
+
+·       Demonstrate appropriate use of class and id attributes
+
+·       Apply background color, text color, and text formatting styles
+
+Chapter 5 How to use the CSS box model
+
+·       Apply padding, margin, borders, and corner rounding
+
+Chapter 6 How to use CSS for page layout
+
+·       Use float (or grid) to display blocks side-by-side
+
+Chapter 7 How to work with lists, links, and navigation menus
+
+·       Identify one navigation item as the active item
+
+·       Make the 3 lines of text in each box an unordered list with no bullet points.
+
+Chapter 8 How to use media queries for Responsive Web Design
+
+·       Apply style for a mobile and desktop layout
+
+Chapter 9 How to use Flexible Box Layout for Responsive Web Design
+
+·       Use flexbox to position the logo and navigation in the header
+
+Chapter 10 How to use Grid Layout for Responsive Web Design
+
+·       Use grid (or float) to display blocks side-by-side
+
+Chapter 11 How to work with images, icons, and fonts
+
+·       Add an image/icon to the header.
+
+·       Apply the Noto Sans font, or a similar font
