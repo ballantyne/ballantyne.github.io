@@ -219,4 +219,19 @@ h1#title {
 
 }
 
+.zoom .name {
+  font-size: 35px;
+}
 
+.zoom .price {
+  font-size: 45px;
+}
+
+.zoom ul.options {
+  font-size: 20px;
+}
+
+
+.zoom button {
+  font-size: 25px;
+}
